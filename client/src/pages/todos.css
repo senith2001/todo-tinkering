@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+  
+}
+
+.todos{
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+    
+}
